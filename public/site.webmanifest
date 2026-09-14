@@ -1,0 +1,15 @@
+{
+  "name": "Global Language Institute",
+  "short_name": "GLI",
+  "description": "Language training and study abroad consultancy.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#152238",
+  "background_color": "#F3F0E7",
+  "display": "standalone"
+}
